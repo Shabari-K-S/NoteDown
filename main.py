@@ -549,9 +549,9 @@ def main(page: ft.Page):
     # HELPER FUNCTIONS
     def create_welcome_note():
         """Create a welcome note with instructions"""
-        welcome_md = """# Welcome to NoteMark 👋
+        welcome_md = """# Welcome to NoteDow 👋
 
-NoteMark is a simple note-taking app that uses Markdown syntax to format your notes.
+NoteDown is a simple note-taking app that uses Markdown syntax to format your notes.
 
 You can create your first note by clicking on the top-left icon on the sidebar, or delete one by clicking on top right icon.
 
@@ -601,7 +601,7 @@ def hello_world():
 
 ---
 
-Enjoy using NoteMark!
+Enjoy using NoteDown!
 """
         # Create a sample note with numeric names
         for i in range(1, 8):
