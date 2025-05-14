@@ -589,7 +589,7 @@ Here are all the heading formats currently supported by NoteMark:
 
 ```python
 def hello_world():
-    print("Hello, NoteMark!")
+    print("Hello, NoteDown!")
 ```
 
 ## Blockquotes
