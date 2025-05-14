@@ -2,7 +2,7 @@
 
 A modern, minimalist Markdown note-taking application built with Python and Flet framework. NoteDown provides a seamless experience for creating, editing, and organizing your notes with real-time Markdown preview.
 
-![NoteDown Screenshot](docs/screenshot.png)
+![NoteDown Screenshot](https://raw.githubusercontent.com/Shabari-K-S/NoteDown/refs/heads/main/preview.png)
 
 ## Features
 
