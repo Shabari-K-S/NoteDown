@@ -28,14 +28,14 @@ A modern, minimalist Markdown note-taking application built with Python and Flet
 1. Clone this repository or download the source code:
 
     ```cmd
-    git clone https://github.com/yourusername/notedown.git
-    cd notedown
+    git clone https://github.com/Shabari-K-S/NoteDown.git
+    cd NoteDown
     ```
 
 2. Install the required dependencies:
 
     ```cmd
-    pip install flet
+    pip install "flet[all]"
     ```
 
 ## Usage
@@ -43,7 +43,7 @@ A modern, minimalist Markdown note-taking application built with Python and Flet
 To run NoteDown, navigate to the project directory and run:
 
 ```cmd
-python main.py
+flet run
 ```
 
 ### Keyboard Shortcuts
